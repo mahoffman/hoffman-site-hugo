@@ -10,9 +10,6 @@ cd public
 # Add changes to git.
 git add -A
 
-# Add the CNAME file
-echo "www.markanthonyhoffman.com" >> CNAME
-
 # Commit changes.
 msg="rebuilding site `date`"
 if [ $# -eq 1 ]

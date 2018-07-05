@@ -7,36 +7,6 @@ date = 2018-07-05T00:00:00
 # Order that this section will appear in.
 weight = 5
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Culture",
-    "History",
-    "Religion"
-  ]
-
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Sociology"
-  institution = "Columbia University"
-  year = 2019
-
-[[education.courses]]
-  course = "MPhil in Sociology"
-  institution = "Columbia University"
-  year = 2018
-
-
-[[education.courses]]
-  course = "MA in Sociology"
-  institution = "Columbia University"
-  year = 2016
-
-[[education.courses]]
-  course = "BA in Social Research and Public Policy"
-  institution = "NYU Abu Dhabi"
-  year = 2014
-
 +++
 
 # Biography
